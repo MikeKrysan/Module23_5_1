@@ -25,3 +25,5 @@ class MainActivity : AppCompatActivity() {
         recyclerView.adapter = adapter
     }
 }
+
+//Эмулятор при запуске приложения показывает ошибку, однако AS ошибки не обнаруживает
